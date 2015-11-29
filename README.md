@@ -23,21 +23,21 @@ So, we started with an ipython notebook then moved on to IBM watson analytics, a
 - Comaprision of Average ExchangeBid with Age
 - Comparision of Aberage ExchangeBid over Country and Outcome
 
-![Vicarious1](https://raw.githubusercontent.com/HackerEcology/SuggestU/master/docs/vicarious1.png)
+![Vicarious1](https://raw.githubusercontent.com/arcolife/applift-hack-team-vicarious/master/docs/vicarious1.png)
 
 - ExchangeBid% v/s DeviceType
 - ExchangeBid avg. compared over Manufacturer and Outcome
 
-![Vicarious2](https://raw.githubusercontent.com/HackerEcology/SuggestU/master/docs/vicarious2.png)
+![Vicarious2](https://raw.githubusercontent.com/arcolife/applift-hack-team-vicarious/master/docs/vicarious2.png)
 
 - ExchangeBid avg. over countries
 
-![Vicarious3](https://raw.githubusercontent.com/HackerEcology/SuggestU/master/docs/vicarious3.png)
+![Vicarious3](https://raw.githubusercontent.com/arcolife/applift-hack-team-vicarious/master/docs/vicarious3.png)
 
 - Successful CampaignID(s) v/s avg ExchangeBid
 
-![Vicarious4](https://raw.githubusercontent.com/HackerEcology/SuggestU/master/docs/vicarious4.png)
+![Vicarious4](https://raw.githubusercontent.com/arcolife/applift-hack-team-vicarious/master/docs/vicarious4.png
 
 - Elasticsearch indexed dataset
 
-![Vicarious5](https://raw.githubusercontent.com/HackerEcology/SuggestU/master/docs/vicarious5.png)
+![Vicarious5](https://raw.githubusercontent.com/arcolife/applift-hack-team-vicarious/master/docs/vicarious5.png)
