@@ -36,7 +36,7 @@ So, we started with an ipython notebook then moved on to IBM watson analytics, a
 
 - Successful CampaignID(s) v/s avg ExchangeBid
 
-![Vicarious4](https://raw.githubusercontent.com/arcolife/applift-hack-team-vicarious/master/docs/vicarious4.png
+![Vicarious4](https://raw.githubusercontent.com/arcolife/applift-hack-team-vicarious/master/docs/vicarious4.png)
 
 - Elasticsearch indexed dataset
 
