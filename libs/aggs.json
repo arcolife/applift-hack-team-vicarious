@@ -1,0 +1,13 @@
+{
+    "size": 0,
+    "aggs": {
+	"bids_over_time": {
+	    "date_histogram": {
+		"field": "Timestamp",
+		"interval": "10m",
+		"format": "yyyy-MM-dd HH:mm:ss"
+	    }
+	}
+    }
+}
+

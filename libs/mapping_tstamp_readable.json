@@ -1,0 +1,199 @@
+{
+   "bid" : {    
+      "properties" : {
+         "CreativeType" : {
+            "type" : "integer",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "TrafficType" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "Outcome" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "Gender" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "Age" : {
+            "type" : "integer",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "DeviceId" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "Model" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "OS" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "CreativeCategory" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "CreativeId" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "Position" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "AppSiteId" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "AppSiteCategory" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "OSVersion" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "Longitude" : {
+            "type" : "float",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "BidId" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "Manufacturer" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "CampaignId" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "DeviceIP" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "PublisherId" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "Timestamp" : {
+            "type" : "date",
+            "format": "yyyy-MM-dd HH:mm:ss"
+         },
+         "BidFloor" : {
+            "type" : "float",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "Latitude" : {
+            "type" : "float",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "DeviceType" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "Zipcode" : {
+            "type" : "integer",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "Country" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "Carrier" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "GeoType" : {
+            "type" : "string",
+            "index": "not_analyzed",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         },
+         "ExchangeBid" : {
+            "type" : "float",
+            "fielddata": {
+              "format": "doc_values"
+            }
+         }
+      }
+   }
+}
